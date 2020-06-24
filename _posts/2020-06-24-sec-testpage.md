@@ -1,6 +1,6 @@
 ---
 layout: articles
-title:第二次测试
+title:sec-test
 articles:
   data_source: site.sample_page
 ---
